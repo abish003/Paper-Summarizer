@@ -1,0 +1,206 @@
+Imagine you are a ninth grader .Your science teacher just assigned the following paper for you to read.
+How would you feel?
+Confused?
+Lost?
+Bored?
+
+I understand, yet this is a paper about a simply structured scientific experiment,
+the kind that you and your teenage classmates
+could have designed and even conducted yourselves.
+What if your teacher gave you this paper instead?
+Same content, just a little more palatable.
+How do you feel now?
+Curious?
+
+Now you actually have a chance
+to understand what the original paper was about.
+And often we do need to understand original research.
+What if you wanted to find out
+about the latest medical treatment available for a specific disease,
+or you wanted to better understand
+the impact your choice of fish in the supermarket
+will have on the global ocean?
+However, science research is often hard to access by non-scientists,
+as I came to realize.
+
+A few years ago, I was that teacher.
+I taught science in a high school in Texas.
+One day, I set up a project for my ninth-graders.
+They had to pick and read a scientific paper
+from a peer-reviewed journal and summarize it for their classmates.
+Boy, did they struggle.
+Not a single one of my students managed to complete the assignment well.
+They faced three barriers.
+The first barrier was academic English,
+which by some accounts is not even English at all.
+
+One student picked a paper
+from the journal "Proceedings of the National Academy of Sciences"
+about the cheapest ways to control rabies in India.
+Rabies is a preventable disease
+which still kills , people every year.
+She began reading,
+but before she got to the end of the first paragraph,
+she encountered the following sentence
+"Through integration over parameter uncertainty,
+we find that for a cost-effectiveness threshold above $, per DALY,
+canine interventions are at least % likely to be optimal."
+All this means is that the scientists created a computer simulation
+which showed that by vaccinating dogs against rabies,
+the disease could be controlled in both dogs and humans.
+"Couldn't they just say that?" my student asked.
+Well, not really.
+In science, very often, the devil is in the detail,
+so naming your assumptions -
+integrating over X parameter -
+declaring your level of certainty -
+percent -
+and measuring things in the exact same conventional units of measurements -
+disability adjusted life years, or DALYs -
+are some of the ways scientists use to remain objective and precise.
+Besides, frankly, using jargon saves time in a conversation between experts.
+Can you imagine if every time they wanted to say, "we calculated DALYs,"
+they had to say, "we calculated the sum of the years of life lost
+due to premature mortality in the population
+and the years lost due to disability
+for the people living with the health condition we're studying
+or its consequences"?
+No.
+They just say DALYs,
+and everyone who's interested in the topic knows precisely what they meant -
+not that this made academic English any simpler for my student to understand.
+
+A boy in my class faced a different problem,
+the second barrier.
+He was an entomologist by birth; he just loved bugs.
+So naturally, for my assignment,
+he went straight onto the "Journal of Asia-Pacific Entomology"
+and tried to download a paper entitled
+"Task allocation in the tunneling behavior
+of workers of the Formosan subterranean termite"
+because he wanted to learn more about termites' tunneling behavior,
+a completely common interest for a teenage boy.
+As soon as he clicked on the download button, though,
+he hit a paywall - a $. paywall.
+Why?
+After all, the scientists who conducted and peer-reviewed this research
+are not going to get paid out of this money;
+it goes to the publishing company.
+And this made sense decades ago,
+when each of these academic papers had to be typeset, printed,
+and bound in a paper copy of the journal
+and then sent to universities and libraries all around the world,
+probably by horse carriage and ships.
+But today, they just get uploaded online,
+so it seems a little unfair
+that universities have to pay multimillion-dollar subscription fees
+to access these papers
+or that my student had to pay his weekly allowance
+to access a single paper about termites' tunneling behavior.
+
+The third problem my students faced was actually my fault.
+I was their teacher,
+and I had failed to educate them about the scientific method.
+One boy wanted to get his driver's license as soon as possible,
+so he decided to read up on the topic of driving.
+He chose a paper entitled
+"Mild hypohydration increases the frequency of driver errors
+during a prolonged, monotonous driving task,"
+published in the peer-reviewed journal "Physiology & Behavior."
+He read it and excitedly reported to the class
+that not drinking enough water has the same effect as driving drunk.
+
+The problem is that's not exactly what the study found.
+In this paper, young guys - young university students -
+were asked to sit in a simulator
+for two hours, pretend-driving on a highway
+while fully hydrated and later on while mildly dehydrated.
+On average, they made more mistakes in the dehydrated drive.
+A red flag which should come up right now in your minds
+is the small sample size in this study
+just people.
+Any results, even if statistically significant,
+have to be taken with a large grain of salt
+and cannot easily be extended to the rest of the world.
+Taking it a step further
+and comparing the limited results of dehydrated drivers
+to real-life drunk drivers is even more suspect.
+
+Another student of mine made a similar mistake
+she proudly declared that scientists discovered a cure for colon cancer,
+because she read in her paper
+that "there was statistically significant decrease in the incidence of cancer
+in the mice that were given the treatment compared to the control group."
+She had overlooked all the caveats - that is, all the limitations -
+of these findings
+that the results are not replicated yet,
+they're preliminary, and they're still awaiting human trials.
+So, my students failed to realize the significance
+of things like experimental replication, sample size,
+or using model organisms like mice.
+Safe to say I was disappointed,
+but I didn't give up.
+I really wanted them to get it.
+Besides, I was their teacher; it was my job to make sure they got it.
+So I picked one paper, read it carefully,
+and rephrased it in simpler words,
+walking the reader through all the essential details.
+It wasn't hard for me;
+I had read hundreds of academic papers in university,
+and they all, essentially, have the same structure.
+I had also worked as a science journalist during graduate school.
+A friend of mine, a graphic designer,
+reproduced the results graph using some kid-friendly illustrations
+and laid it all out neatly on a couple of pages.
+I gave it to my students to read, and they loved it.
+I remember one of them saying, "Thank you. I actually got that."
+Another one said, "Wait. So, that's what scientists do?
+Can I do that too?"
+I was excited and went on to adapt a couple more papers.
+I got the scientists involved too;
+they proofread my adaptations to make sure I had restated their research correctly.
+However, as a teacher of students in Texas,
+I realized that my impact was limited.
+I wanted more and more students all around the world
+to have access to the latest scientific discoveries,
+so I set up a nonprofit publishing company,
+crowdfunded a little bit of startup capital,
+and "Science Journal for Kids" was born.
+Today, four years later,
+my team and I have adapted more than academic papers
+from different disciplines
+by researchers in dozens of universities around the world.
+Many of them are translated into non-English languages,
+and all of them are available for free to download.
+Tens of thousands of students read them every month.
+That's way ahead of my original .
+I am proud of the work we do
+making scientific discoveries fun and accessible for anyone to learn.
+And fortunately, we're not alone in this.
+Let me tell you
+how other people are helping to cross the three barriers my students faced.
+First, popular-science shows are at an all-time high.
+You want to learn about thermodynamics or acid-based chemistry?
+Easy. Watch a video by Khan Academy.
+You want to know if GMOs are bad for your health,
+or how does a bee become a queen?
+Watch an episode of the SciShow.
+Khan Academy and the SciShow have five million YouTube subscribers each,
+and there are plenty of other high-quality science-teaching videos
+and podcasts, websites,
+not to mention books and TV shows and entire TV channels.
+With so much science being out there, though, one must be careful;
+there are some sources of low-quality scientific information -
+I'm thinking gossipy TV talk shows
+or personal pseudoscience blogs.
+And that's why it's always important to have some expert academic oversight.
+That's why we always work in collaboration
+with the researchers whose papers we're adapting.
+The second shackle holding science back, subscription paywalls,
+has also been seriously challenged in recent times
+by a new publishing model called open access.
+In this case, instead of the reader paying $.,
+the researcher's institution pays a processing fee to the publisher,
+and then the paper is made available for free online.
+This is exactly how our journal works too.
+The Public Library of Science, PLOS, pioneered this model about years ago. And today, there are more than , respectable academic peer-reviewed journals which are open access. In other words, my bugs-obsessed student has a really good chance of finding high-quality entomology papers available for free. The third barrier my students faced, their lack of clarity on how science actually works, is unfortunately still standing tall. We see this in tweets by climate change deniers, in anti-vaccination campaigns, and intelligent design proposals. Yet, it isn't that hard. The scientific method is essentially normal thinking, just a bit more structured. You observe the world, ask a question about it, do some background research to find out what's already known about this topic, formulate a hypothesis, test it with an experiment, collect your data, analyze the results, and form conclusions. If your hypothesis is supported, share your results with the world; If not, go back to the drawing board. This approach makes rational sense. It allows us, humans, to inch our way towards understanding the universe in tiny, incremental steps. In a post-truth society governed by social media, familiarity with the scientific method is a fundamentally important skill for a future electorate. If every person is exposed to some real science as a kid, they can develop evidence-based, data-driven thinking. That's why "Science Journal for Kids" supports teachers all around the world who work hard to pass this understanding on to their students. Scientific knowledge is important, and access to it shouldn't be that hard. After all, kids have the right to understand the world they're inheriting from us. Oh, and I bet you're still wondering about the bees and the flu. The answer is yes, both honeybees and wild bees can catch viruses, but interestingly, only honeybees show symptoms. Science never fails to amaze, if we only let it. Thank you.
